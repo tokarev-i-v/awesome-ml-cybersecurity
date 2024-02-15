@@ -6,4 +6,6 @@ ChatGPT in penetration testing:
 
 Books:
 
+| hackerwhale | List of Free cybersecurity ebooks [github](https://github.com/hackerwhale/free-cybersecurity-ebooks)
+
 06.2018 | Chiheb Chebbi | Mastering Machine Learning for Penetration Testing [book](https://www.packtpub.com/product/mastering-machine-learning-for-penetration-testing/9781788997409), [github](https://github.com/PacktPublishing/Mastering-Machine-Learning-for-Penetration-Testing)
